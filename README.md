@@ -2,6 +2,7 @@
 Perform analysis and to use metrics at monitoring the performance of the brands on the social media
 
 Media Channel: Twitter
+<br />
 Brand Industry: Beer
 
 *Relevant codes and extracted dataset will be uploaded once prepared
