@@ -3,6 +3,8 @@ Perform analysis and to use metrics at monitoring the performance of the brands 
 
 Media Channel: Twitter
 <br />
+API:  Twitter API
+<br />
 Brand Industry: Beer
 
 *Relevant codes and extracted dataset will be uploaded once prepared
